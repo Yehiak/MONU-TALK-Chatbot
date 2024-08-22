@@ -63,4 +63,4 @@ MonuTalk enhances the educational experience by offering immersive interactions 
 This code is provided for educational and research purposes. If you intend to use it for commercial purposes, please contact us for permission. Unauthorized commercial use is not permitted.
 
 ## References
-- [Google Generative AI Cookbook]([https://cloud.google.com/generative-ai/cookbook](https://github.com/google-gemini/cookbook)) - A comprehensive guide to using Google’s Generative AI tools.
+- [Google Generative AI Cookbook](https://github.com/google-gemini/cookbook) - A comprehensive guide to using Google’s Generative AI tools.
